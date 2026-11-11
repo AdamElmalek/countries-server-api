@@ -1,0 +1,11 @@
+# Secrets - real keys live only on your machine
+appsettings.Local.json
+**/appsettings.Local.json
+
+# Visual Studio / .NET build output
+.vs/
+bin/
+obj/
+*.user
+*.suo
+Properties/PublishProfiles/*.pubxml
