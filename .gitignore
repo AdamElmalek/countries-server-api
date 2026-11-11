@@ -8,4 +8,4 @@ bin/
 obj/
 *.user
 *.suo
-Properties/PublishProfiles/*.pubxml
+**/Properties/PublishProfiles/
